@@ -23,6 +23,7 @@ Permite realizar operaciones CRUD completas sobre las entidades principales, uti
 
 api-rest/
 ├── src/
+
 │ ├── main/
 │ │ ├── java/ec/edu/espe/publicaciones/
 │ │ │ ├── controller/ → Controladores REST
