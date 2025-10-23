@@ -19,27 +19,7 @@ Permite realizar operaciones CRUD completas sobre las entidades principales, uti
 
 ---
 
-## 🏗️ Estructura del Proyecto
 
-api-rest/
-├── src/
-
-│ ├── main/
-│ │ ├── java/ec/edu/espe/publicaciones/
-│ │ │ ├── controller/ → Controladores REST
-│ │ │ ├── dto/ → Clases DTO para intercambio de datos
-│ │ │ ├── entity/ → Entidades JPA (Autor, Libro, Articulo, Publicacion)
-│ │ │ ├── repository/ → Repositorios JPA
-│ │ │ ├── service/ → Lógica de negocio
-│ │ │ └── PublicacionesApplication.java
-│ │ └── resources/ → Configuración y recursos (static, templates, etc.)
-│ └── test/ → Pruebas unitarias con JUnit
-├── pom.xml → Configuración de dependencias Maven
-├── HELP.md → Guía generada por Spring Boot
-└── README.md → Descripción general del proyecto
-
-
----
 
 ## 🧠 Descripción General
 
